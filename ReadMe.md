@@ -6,14 +6,14 @@ This is the first project in the Udacity Data Science Nano-Degree program. In th
 <li>Most and least expensive neighbourhoods in the two cities?</li>
 <li>The top features affecting the price of the listings?</li>
 </ol>
-Here is the [link](https://medium.com/@sh.sheikhakbari/a-study-on-airbnb-listings-in-boston-and-seattle-a22a31f9209d)  of the article I published to explain my study in more detail.
+<p>Here is the [link](https://medium.com/@sh.sheikhakbari/a-study-on-airbnb-listings-in-boston-and-seattle-a22a31f9209d)  of the article I published to explain my study in more detail.</p>
 <h2>Dataset resource</h2>
 <p>The data can be found through the following links:</p>
 
 [Seattle AirBNB Data](https://www.kaggle.com/airbnb/seattle/data)
 and
 [Boston AirBNB Data](https://www.kaggle.com/airbnb/seattle/data)
-The airbnb data for both cities consists of the following files:
+<p>The airbnb data for both cities consists of the following files:</p>
 <ol>
 <li>listings: Detailed listings</li>
 <li>calendar: Detailed calendar data for the listings.</li>
