@@ -1,11 +1,12 @@
 <h1>A study on Airbnb Listings in Boston and Seattle</h1>
-This is the project in the Udacity Data Science nano-degree program. In this study I analysed the listing datasets of Boston and Seattle cities on Airbnb. The result of the analysis is to answer these questions.
+This is the first project in the Udacity Data Science Nano-Degree program. In this study I analysed the listing datasets of Boston and Seattle cities on Airbnb. The result of the analysis is to answer these questions.
 <h2>Questions of Interest</h2>
 <ol>
 <li>Most expansive month to visit either of the cities?</li>
 <li>Most and least expensive neighbourhoods in the two cities?</li>
 <li>The top features affecting the price of the listings?</li>
 </ol>
+Here is the [link](https://medium.com/@sh.sheikhakbari/a-study-on-airbnb-listings-in-boston-and-seattle-a22a31f9209d) to the article I published to explain my study in more detail.
 <h2>Dataset resource</h2>
 <p>The data can be found through the following links:</p>
 
