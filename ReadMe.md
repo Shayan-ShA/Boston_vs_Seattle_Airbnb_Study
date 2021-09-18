@@ -9,7 +9,7 @@ This is the first project in the Udacity Data Science Nano-Degree program. In th
 </ol>
 
 [This](https://medium.com/@sh.sheikhakbari/a-study-on-airbnb-listings-in-boston-and-seattle-a22a31f9209d) is the article published to explain the study in more detail.
-<h2>Dataset resource</h2>
+<h2>Dataset resources</h2>
 <p>The data can be found through the following links:</p>
 
 [Seattle AirBNB Data](https://www.kaggle.com/airbnb/seattle/data)
