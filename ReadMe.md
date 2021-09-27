@@ -21,3 +21,6 @@ and
 <li>calendar: Detailed calendar data for the listings.</li>
 <li>reviews: Guest's reviews for each of their stays.</li>
 </ol>
+
+
+![Certificate.pdf](https://github.com/Shayan-ShA/Boston_vs_Seattle_Airbnb_Study-Udacity_DataScience/blob/master/Certificate.png)
