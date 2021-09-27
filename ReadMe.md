@@ -23,4 +23,6 @@ and
 </ol>
 
 
+
+
 ![Certificate.pdf](https://github.com/Shayan-ShA/Boston_vs_Seattle_Airbnb_Study-Udacity_DataScience/blob/master/Certificate.pdf)
