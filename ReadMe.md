@@ -25,4 +25,4 @@ and
 
 
 
-![Certificate.png](https://github.com/Shayan-ShA/Boston_vs_Seattle_Airbnb_Study-Udacity_DataScience/blob/master/Certificate.png)
+![Certificate.PNG](https://github.com/Shayan-ShA/Boston_vs_Seattle_Airbnb_Study-Udacity_DataScience/blob/master/Certificate.PNG)
